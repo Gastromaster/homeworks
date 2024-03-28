@@ -1,6 +1,6 @@
-name = 'John'
+name = 'Dmitriy'
 print("Name: " + name)
-age = 25
+age = 26
 print("Age: " + str(age))
 print('New age: ' + str(age + 1))
 is_student = True
