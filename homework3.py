@@ -1,5 +1,4 @@
 my_string = input('привет, где ты живешь? ' )
-str(my_string)
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
