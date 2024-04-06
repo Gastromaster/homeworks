@@ -5,4 +5,4 @@ def print_params(arg):
 
 print_params('one')
 print_params('two')
-print_params('tree')
+print_params('three')
