@@ -1,8 +1,8 @@
-def print_params():
-    for _ in 1, 2:
-        print('Hello homework')
+def print_params(arg):
+    for _ in range(2):
+        print(arg)
 
 
-print_params()
-print_params()
-print_params()
+print_params('one')
+print_params('two')
+print_params('tree')
